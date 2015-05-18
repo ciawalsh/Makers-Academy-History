@@ -1,7 +1,7 @@
 # Makers-Academy-History
 ### In case my GitHub repositories are not in the correct order, I have put together a quick ReadMe to document Week 1 - Week 11.
 
-We also got a challenges sent to us every friday (Precourse included) in which i have ticked off the ones i have received for sucessfully completed.
+We also got challenges sent to us every friday (Precourse included) in which I have ticked off the ones I have received for sucessfully completing.
 
 ### Week 10 & 11 - (Final Projects)
 ###### These are the most challenging two weeks of the course.
