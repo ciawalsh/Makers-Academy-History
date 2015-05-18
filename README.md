@@ -95,7 +95,7 @@ Project | Description | Technologies/Learnt |
 
 #### Precourse 
 
-Prior to the Makers Academy course, they ask you to fimiliarise yourself with the basics of Ruby & Version Control and gave us a few challenges as well. These early on repos are still on here to show you how quickly i can learn within 12 weeks. If you would like to look at them, they are listed below, otherwise Weeks 1-12 are as follows...
+Prior to the Makers Academy course, they ask you to fimiliarise yourself with the basics of Ruby & Version Control and gave us a few challenges as well. These early on repos are still on here to show you how quickly I can learn within 12 weeks. If you would like to look at them, they are listed below;
 - [Command Line](https://github.com/ciawalsh/Command-Line)
 - [Ruby Practice](https://github.com/ciawalsh/Ruby-Practice)
 - [Chatterbox](https://github.com/ciawalsh/Chatterbox)
